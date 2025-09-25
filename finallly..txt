@@ -1,0 +1,5 @@
+class crypto()
+ pass
+
+class Altcoin():
+ pass
